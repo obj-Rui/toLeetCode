@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/2.汇总区间.js",
+      "request": "launch",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node",
+      "runtimeExecutable": "/Users/wangrui/.nvm/versions/node/v18.12.1/bin/node",
+      "console": "integratedTerminal"
+    }
+  ]
+}
