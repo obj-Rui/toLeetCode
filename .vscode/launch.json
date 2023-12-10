@@ -2,7 +2,7 @@
   "configurations": [
     {
       "name": "Launch Program",
-      "program": "${workspaceFolder}/2.汇总区间.js",
+      "program": "${workspaceFolder}/4.出租车的最大盈利.js",
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
